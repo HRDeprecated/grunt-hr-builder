@@ -1,6 +1,6 @@
 {
     "name": "grunt-hr-builder",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "HappyRhino Build task for grunt",
     "repository": {
         "type": "git",
