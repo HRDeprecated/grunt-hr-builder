@@ -1,0 +1,23 @@
+{
+    "name": "grunt-hr-builder",
+    "version": "0.0.0",
+    "description": "HappyRhino Build task for grunt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HappyRhino/grunt-hr-builder.git"
+    },
+    "main": "grunt.js",
+    "keywords": [
+        "gruntplugin",
+        "happyrhino"
+    ],
+    "author": "Samy Pesse <samypesse@gmail.com>",
+    "license": "Apache 2",
+    "dependencies": {
+        "hr-builder": "0.0.0",
+        "lodash": "2.4.1"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    }
+}
