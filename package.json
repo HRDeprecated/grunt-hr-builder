@@ -14,7 +14,7 @@
     "author": "Samy Pesse <samypesse@gmail.com>",
     "license": "Apache 2",
     "dependencies": {
-        "hr-builder": "0.0.0",
+        "hr-builder": "1.0.0",
         "lodash": "2.4.1"
     },
     "peerDependencies": {
